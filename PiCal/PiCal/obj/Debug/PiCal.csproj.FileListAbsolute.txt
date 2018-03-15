@@ -1,0 +1,10 @@
+C:\Users\Harry\source\repos\PiCal\PiCal\bin\Debug\PiCal.exe.config
+C:\Users\Harry\source\repos\PiCal\PiCal\bin\Debug\PiCal.exe
+C:\Users\Harry\source\repos\PiCal\PiCal\bin\Debug\PiCal.pdb
+C:\Users\Harry\source\repos\PiCal\PiCal\obj\Debug\PiCal.csprojResolveAssemblyReference.cache
+C:\Users\Harry\source\repos\PiCal\PiCal\obj\Debug\PiCal.Form1.resources
+C:\Users\Harry\source\repos\PiCal\PiCal\obj\Debug\PiCal.Properties.Resources.resources
+C:\Users\Harry\source\repos\PiCal\PiCal\obj\Debug\PiCal.csproj.GenerateResource.Cache
+C:\Users\Harry\source\repos\PiCal\PiCal\obj\Debug\PiCal.csproj.CoreCompileInputs.cache
+C:\Users\Harry\source\repos\PiCal\PiCal\obj\Debug\PiCal.exe
+C:\Users\Harry\source\repos\PiCal\PiCal\obj\Debug\PiCal.pdb
